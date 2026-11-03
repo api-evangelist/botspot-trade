@@ -64,5 +64,125 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-botspot-trade is a company surfaced via the API Evangelist harvest backlog (source: mcp-registry) and added to the network as a stub for full-pipeline profiling.
-- https://botspot.trade/
+BotSpot offers an AI‑driven trading bot builder and backtesting platform that lets users describe trading ideas in plain English, generate bots, test them on historical data, and run them through supported brokers such as Alpaca, Tradier, Tradovate, Kraken, or Coinbase. The service includes an AI Agent for market research, a marketplace of strategy templates, and educational programs like the AI Trading Bootcamp, targeting traders who want to automate strategies without coding.
+
+**Areas:** AI Trading · Bot Builder · Backtesting · Trading Platform
+
+## botspot-trade on APIs.io
+
+Everything profiled for botspot-trade is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/botspot-trade/](https://apis.io/providers/botspot-trade/)** — or go straight to one of the APIs or properties below.
+
+### APIs (4)
+
+- [botspot-trade Llms.txt API](https://apis.io/apis/botspot-trade/botspot-trade-llms-txt-api/) — The Llms.txt API from botspot-trade — 1 operation(s) for llms.txt.
+- [botspot-trade Openapi.json API](https://apis.io/apis/botspot-trade/botspot-trade-openapi-json-api/) — The Openapi.json API from botspot-trade — 1 operation(s) for openapi.json.
+- [botspot-trade Sitemap.xml API](https://apis.io/apis/botspot-trade/botspot-trade-sitemap-xml-api/) — The Sitemap.xml API from botspot-trade — 1 operation(s) for sitemap.xml.
+- [botspot-trade .well Known API](https://apis.io/apis/botspot-trade/botspot-trade-well-known-api/) — The .well Known API from botspot-trade — 2 operation(s) for .well known.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Agentic access (1)
+
+Which operations an agent can call, which act, and which need a human in the loop.
+
+- [Botspot Trade Agentic Access](https://apis.io/agentic-access/botspot-trade/botspot-trade-agentic-access/)
+
+#### JSON Schema (1)
+
+The data models the API reads and writes.
+
+- [PublicManifest](https://apis.io/schemas/botspot-trade/botspot-trade-public-manifest/)
+
+#### JSON-LD (1)
+
+Linked-data contexts for the provider's vocabulary.
+
+- [Botspot Trade Context](https://apis.io/jsonld/botspot-trade/botspot-trade-context/)
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [botspot-trade API Rules](https://apis.io/rules/botspot-trade/botspot-trade-rules/)
+
+#### Security (1)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Botspot Trade Domain Security](https://apis.io/security/botspot-trade/botspot-trade-domain-security/)
+
+#### Plans and pricing (1)
+
+Published plans, tiers and prices.
+
+- [Botspot Trade Plans Pricing](https://apis.io/plans/botspot-trade/botspot-trade-plans-pricing/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://botspot.trade/)
+- [Documentation](https://dev.botspot.trade/)
+- [API reference](https://dev.botspot.trade/llms.txt)
+- [Pricing](https://botspot.trade/pricing)
+- [Support](https://botspot.trade/help)
+- [Blog](https://botspot.trade/blog)
+- [Terms of service](https://botspot.trade/terms)
+- [Privacy policy](https://botspot.trade/privacy)
+
+## API Evangelist rating
+
+**Kin Score 45.2** — developing · rubric 0.25.0 · scored 2026-11-03
+
+| Facet | Score |
+|---|---|
+| Discoverability | 57.1 |
+| Contract quality | 47.9 |
+| Contract governance | 79.1 |
+| Operational transparency | 0.0 |
+| Developer ergonomics | 23.8 |
+| Access clarity | 60.0 |
+
+**Agent readiness 43.2** — agent-ready (gated down from agent-native)
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | unknown |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | served (partial credit) |
+| Idempotency | — |
+| Error Semantics | derived (partial credit) |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | served (partial credit) |
+| Protected Resource Metadata | verified |
+| Dynamic Client Registration | yes |
+| Agentic Commerce | — |
+| Pagination Ratio | na |
+| Operation Distinctiveness | distinct |
+
+**Regulatory alignment 28.7** — Securities & Market Data
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/botspot-trade/](https://apis.io/providers/botspot-trade/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for botspot-trade: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/botspot-trade/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
